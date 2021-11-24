@@ -4,3 +4,6 @@ GOOGLE COLAB DOES NOT WORK WITH GEOPY LIBRARY**
 
 Webpage Link- https://housingmagician.github.io/housingmagician/About.html
 
+Drive folder containing all deliverables-https://drive.google.com/drive/folders/18eJ0KCP2rGS4NwCPmYDGbmPSxwPpCqg-?usp=sharing
+
+Github repository- https://github.com/housingmagician/Housing-Magician
